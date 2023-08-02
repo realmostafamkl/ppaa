@@ -1,4 +1,4 @@
 spoofer pannle as a fun project
 
-#RUN
+RUN
 run start file
